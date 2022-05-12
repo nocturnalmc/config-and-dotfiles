@@ -16,10 +16,11 @@
 
 ### Install
 1. Tiling Assistant : https://extensions.gnome.org/extension/3733/tiling-assistant/ for WM
-2. Kitty Terminal with Gnome Software
-3. Terminal status line TBD...
-4. Fonts TBD...
-5. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-centos-7
+2. Kitty with Gnome Software
+3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
+4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
+5. Fonts : https://ohmyposh.dev/docs/configuration/fonts
+6. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-centos-7
 
 ### System wide config
 1. None so far...
