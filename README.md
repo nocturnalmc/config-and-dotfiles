@@ -24,3 +24,15 @@
 
 ### System wide config
 1. None so far...
+
+# Termux
+
+### Install
+1. Neovim from apt
+2. Vim-Plug : https://github.com/junegunn/vim-plug#neovim
+3. Create init.vim file at ~/.config
+4. Neovim run :PlugInstall
+5. Neovim run :CocInstall coc-tsserver
+6. Neovim run :CocInstall @yaegassy/coc-tailwindcss3
+7. Lazygit from apt
+
