@@ -1,4 +1,4 @@
-# Add this line at the end of file for Homebrew and Oh My Posh
+# Add these lines at the end of file for Homebrew and Oh My Posh
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 eval "$(oh-my-posh init bash)"
