@@ -2,7 +2,7 @@
 
 ### Install
 
-1. PowerToys : https://github.com/microsoft/PowerToys for WM
+1. Amethyst Windows : https://github.com/glsorre/amethystwindows/releases for WM
 2. Windows Terminal : https://github.com/microsoft/terminal for Terminal
 3. PowerShell : https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2#msstore for Shell
 4. Scoop : https://github.com/ScoopInstaller/Install#readme for Package Manager
@@ -12,8 +12,10 @@
 
 ### System wide config
 
-1. Enable transparency
-2. Color metal blue
+1. Amethyst Windows run on shell:startup
+2. Disable snap windows, show windows taskbar: All desktops, show windows Alt+Tab: Only the desktop I'm using
+3. Enable transparency
+4. Color metal blue
 
 # Fedora
 
