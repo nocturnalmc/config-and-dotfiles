@@ -30,7 +30,7 @@
 
 ### System wide config
 
-1. None so far...
+1. Application switching: Include application from the current workspace only
 
 # Termux
 
