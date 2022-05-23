@@ -2,4 +2,4 @@
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 eval "$(oh-my-posh init bash)"
-eval "$(oh-my-posh init bash --config $(brew --prefix oh-my-posh)/themes/powerlevel10k_rainbow.omp.json)"
+eval "$(oh-my-posh init bash --config ~/noct-theme-posh.omp.json)"
