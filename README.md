@@ -39,7 +39,7 @@
 
 1. Neovim from apt
 2. Vim-Plug : https://github.com/junegunn/vim-plug#neovim
-3. Create init.vim file at ~/.config
+3. Create init.vim file at ~/.config/nvim
 4. Neovim run :PlugInstall
 5. Neovim run :CocInstall coc-tsserver
 6. Neovim run :CocInstall @yaegassy/coc-tailwindcss3
