@@ -13,7 +13,7 @@
 ### System wide config
 
 1. Amethyst Windows run on shell:startup
-2. Disable snap windows, show windows taskbar: All desktops, show windows Alt+Tab: Only the desktop I'm using
+2. Snap windows: disable, show windows taskbar: All desktops, show windows Alt+Tab: Only the desktop I'm using
 3. Enable transparency
 4. Color metal blue
 
@@ -31,6 +31,7 @@
 ### System wide config
 
 1. Application switching: Include application from the current workspace only
+2. Attach modal dialogs: disable
 
 # Termux
 
