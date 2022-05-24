@@ -22,7 +22,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'cohama/lexima.vim'
 
 "git decoration
-Plug 'airblade/vim-gitgutter'
+Plug 'lewis6991/gitsigns.nvim'
 
 call plug#end()
 
@@ -39,6 +39,10 @@ let g:lightline = {
 
 call lexima#add_rule({'char': '<', 'input_after': '>'})
 call lexima#add_rule({'char': '<BS>', 'at': '<\%#>', 'delete': 1})
+
+lua << EOF
+require('gitsigns').setup()
+EOF
 
 set number
 set tabstop=2
