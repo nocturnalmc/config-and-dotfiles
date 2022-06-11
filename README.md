@@ -31,7 +31,6 @@
 ### System wide config
 
 1. Application switching: Include application from the current workspace only
-2. Attach modal dialogs: disable
 
 # Termux
 
