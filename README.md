@@ -7,8 +7,7 @@
 3. PowerShell : https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2#msstore for Shell
 4. Scoop : https://github.com/ScoopInstaller/Install#readme for Package Manager
 5. Oh My Posh with Scoop : https://ohmyposh.dev/docs/installation/windows
-6. Fonts : https://ohmyposh.dev/docs/configuration/fonts
-7. Lazygit with Scoop : https://github.com/jesseduffield/lazygit#scoop-windows
+6. Lazygit with Scoop : https://github.com/jesseduffield/lazygit#scoop-windows
 
 ### System wide config
 
@@ -25,8 +24,7 @@
 2. Kitty with Gnome Software for Terminal
 3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
 4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
-5. Fonts : https://ohmyposh.dev/docs/configuration/fonts
-6. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-centos-7
+5. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-centos-7
 
 ### System wide config
 
