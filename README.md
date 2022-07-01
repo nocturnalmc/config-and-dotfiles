@@ -20,7 +20,7 @@
 
 ### Install
 
-1. Forge : https://github.com/jmmaranan/forge for WM
+1. Tiling Assistant : https://github.com/Leleat/Tiling-Assistant for WM
 2. Kitty with Gnome Software for Terminal
 3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
 4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
