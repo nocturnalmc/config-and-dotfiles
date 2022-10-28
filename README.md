@@ -1,3 +1,17 @@
+# Fedora
+
+### Install
+
+1. Tiling Assistant : https://github.com/Leleat/Tiling-Assistant for WM
+2. Kitty with Gnome Software for Terminal
+3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
+4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
+5. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-rhel
+
+### System wide config
+
+1. Application switching: Include application from the current workspace only
+
 # Windows
 
 ### Install
@@ -15,20 +29,6 @@
 2. Snap windows: disable, show windows taskbar: All desktops, show windows Alt+Tab: Only the desktop I'm using
 3. Enable transparency
 4. Color metal blue
-
-# Fedora
-
-### Install
-
-1. Tiling Assistant : https://github.com/Leleat/Tiling-Assistant for WM
-2. Kitty with Gnome Software for Terminal
-3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
-4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
-5. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-rhel
-
-### System wide config
-
-1. Application switching: Include application from the current workspace only
 
 # Termux
 
