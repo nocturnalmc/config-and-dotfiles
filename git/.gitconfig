@@ -1,2 +1,5 @@
+[user]
+	email = your email
+	name = your name
 [fetch]
 	prune = true

@@ -1,4 +1,4 @@
-# Fedora
+# Linux
 
 ### Install
 
@@ -6,7 +6,7 @@
 2. Kitty with Gnome Software for Terminal
 3. Homebrew : https://docs.brew.sh/Homebrew-on-Linux#install for Package Manager
 4. Oh My Posh with Brew : https://ohmyposh.dev/docs/installation/linux
-5. Lazygit with Copr : https://github.com/jesseduffield/lazygit#fedora-and-rhel
+5. Lazygit with Brew : https://github.com/jesseduffield/lazygit#homebrew
 
 ### System wide config
 
