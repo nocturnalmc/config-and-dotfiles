@@ -3,3 +3,5 @@
 	name = your name
 [fetch]
 	prune = true
+[credential]
+	helper = store
