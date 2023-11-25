@@ -18,7 +18,7 @@
 
 1. Amethyst Windows : https://github.com/glsorre/amethystwindows/releases for WM
 2. Windows Terminal : https://github.com/microsoft/terminal for Terminal
-3. PowerShell : https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3#installing-the-msi-package for Shell
+3. PowerShell : https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#installing-the-msi-package for Shell
 4. Scoop : https://github.com/ScoopInstaller/Install#readme for Package Manager
 5. Oh My Posh with Scoop : https://ohmyposh.dev/docs/installation/windows
 6. Lazygit with Scoop : https://github.com/jesseduffield/lazygit#scoop-windows
