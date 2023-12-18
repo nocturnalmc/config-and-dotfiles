@@ -3,5 +3,6 @@
 	name = your name
 [fetch]
 	prune = true
+# Linux specific
 [credential]
 	helper = store
