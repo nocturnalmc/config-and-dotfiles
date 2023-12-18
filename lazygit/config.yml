@@ -18,3 +18,9 @@ gui:
       - blue
     unstagedChangesColor:
       - red
+  # Linux specific
+  sidePanelWidth: 0.25 # gives you more space to show things side-by-side
+git:
+  paging:
+    colorArg: always
+    pager: delta --dark --paging=never --diff-so-fancy --side-by-side
