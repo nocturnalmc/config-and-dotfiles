@@ -1,4 +1,6 @@
 gui:
+  sidePanelWidth: 0.25 # gives you more space to show things side-by-side
+  useHunkModeInStagingView: false
   theme:
     lightTheme: false # For terminals with a light background
     activeBorderColor:
@@ -18,8 +20,6 @@ gui:
       - blue
     unstagedChangesColor:
       - red
-  # Linux specific
-  sidePanelWidth: 0.25 # gives you more space to show things side-by-side
 git:
   paging:
     colorArg: always
